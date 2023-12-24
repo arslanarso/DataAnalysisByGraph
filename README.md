@@ -48,7 +48,7 @@ You can access the Application Demo video and content below.
 ## 🎥 Demo Video
 
 
-https://github.com/arslanarso/DataAnalysisByGraph/assets/90643738/8efe489b-dc61-4539-b206-8a1954a7fc13
+https://github.com/arslanarso/DataAnalysisByGraph/assets/90643738/99998d24-a644-491a-8199-2c44f9f902ed
 
 
 
