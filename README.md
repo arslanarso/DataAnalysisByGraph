@@ -47,6 +47,11 @@ You can access the Application Demo video and content below.
 
 ## 🎥 Demo Video
 
+
+https://github.com/arslanarso/DataAnalysisByGraph/assets/90643738/8efe489b-dc61-4539-b206-8a1954a7fc13
+
+
+
 ## 🛠️ Technologies
 
 The mobile app leverages the following key technologies and libraries:
